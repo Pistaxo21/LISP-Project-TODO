@@ -1,0 +1,10 @@
+ALTA:siglisp:hacer todo
+MEDIA:siglisp:hacer todo.txt
+ALTA:uni:Hacer proyecto estructura
+ALTA:uni:Estudiar examen estructura
+BAJA:leon:Comprar billete
+ALTA:prueba:adios
+MEDIA:prueba:hola
+BAJA:prueba:prueba
+ALTA:prueba:prueba
+hola hola
